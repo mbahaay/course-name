@@ -18,8 +18,8 @@ In this project, we'll utilize a dataset for different data science-related jobs
 - How do salaries compare to the level of experience?
 - Are there more job opportunities at large or small companies?
 - Are data science jobs suitable for working remotely?
-- 
-## The Dataset
+
+### The Dataset
 
 The dataset contains 245 records of anonymous salary information for various data science related jobs during 2020/21. It has been obtained from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries) and was originally collected by [ai-jobs.net](https://salaries.ai-jobs.net/).
 
