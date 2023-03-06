@@ -1,4 +1,4 @@
-# Can I pursue a career in Data Science?
+# Can I Pursue a Career In Data Science?
 
 ![Screenshot 1](https://github.com/mbahaay/course-name/blob/main/assets/Datascience.jpg)
 
