@@ -1,6 +1,7 @@
 # Can I pursue a career in Data Science?
 
-![Screenshot 1](https://github.com/mbahaay/course-name/tree/main/assets/Datascience.jpeg)
+![Screenshot 1](https://github.com/mbahaay/course-name/blob/main/assets/Datascience.jpg)
+
 
 ## Introduction
 
@@ -28,29 +29,29 @@ For more details about the dataset fields, please check this [link](https://www.
 
 Below are the top 10 most in-demand jobs related to the data science field as inferred from the count of employments that took place during the period of the study; they represent 60% of the total number of employments covered by the study.
 
-![Screenshot 2](https://github.com/mbahaay/course-name/tree/main/assets/Plot1.jpeg)
+![Screenshot 2](https://github.com/mbahaay/course-name/blob/main/assets/Plot1.jpeg)
 
 ### Question2: Do data science jobs require a high level of experience?
 
-![Screenshot 3](https://github.com/mbahaay/course-name/tree/main/assets/Plot2.jpeg)
+![Screenshot 3](https://github.com/mbahaay/course-name/blob/main/assets/Plot2.jpeg)
 
 It can be observed that the majority of data science jobs (73.4%) required a relatively high level of experience (intermediate or expert level), however, it is still applicable for juniors where around 22% of employment was for entry-level jobs.
 
 ### Question3: How do salaries compare to the level of experience?
 
-![Screenshot 4](https://github.com/mbahaay/course-name/tree/main/assets/Plot3_4.jpeg)
+![Screenshot 4](https://github.com/mbahaay/course-name/blob/main/assets/Plot3_4.jpeg)
 
 The average annual salary is ~100K USD. However, the salaries for these roles can vary significantly depending on the level of experience. An entry-level position would start at an average of ~60K USD, while a senior position can earn more than double this.
 
 ### Question4: Are there more job opportunities at large or small companies?
 
-![Screenshot 5](https://github.com/mbahaay/course-name/tree/main/assets/Plot6.jpeg)
+![Screenshot 5](https://github.com/mbahaay/course-name/blob/main/assets/Plot6.jpeg)
 
 Job opportunities are more likely in the large companies where more than half the employment took place.
 
 ### Question5: Are data science jobs suitable for working remotely?
 
-![Screenshot 6](https://github.com/mbahaay/course-name/tree/main/assets/Plot5.jpeg)
+![Screenshot 6](https://github.com/mbahaay/course-name/blob/main/assets/Plot5.jpeg)
 
 Despite that the figures might be affected by the COVID-19 pandemic as data was collected over 2020/21, It's clear that data science jobs are highly applicable for working remotely where 54.7% of the employees are considered to be fully remote while 29% others are partially remote.
 
